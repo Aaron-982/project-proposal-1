@@ -10,4 +10,4 @@ This web app would be useful for NYU students, allowing a site for student servi
 The app would require authentication using an email that ends in .edu. Students providing services would be able to create their own service listings with descriptions, prices, and images of their work. Student clients would be able to filter out services by keyword and leave reviews + comments.
 
 ## Scope
-The project would require annual user authentication, maintaining a data base for clients + service providers, and potential issues revolving around updating parts of the site, like bookings, in real time.
+The project would require annual user authentication, maintaining a data base for clients + service providers, and potential issues revolving around updating parts of the site, like bookings, in real time. However, the app would not require more complicated things such as payment authentication etc.
